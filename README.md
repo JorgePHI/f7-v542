@@ -5,7 +5,11 @@
 Framework7 app created with following options:
 
 ```
- 
+cordova create MyProject --template f7-v542
+
+OR
+
+phonegap create MyProject --template f7-v542
 ```
 
 
